@@ -29,11 +29,11 @@
 
 - 测试通过后提交审核
 
-- 审核完毕确认发布
+- 审核完毕确认发布hhhhh
 
 
 ## 更多资料
-- 微精弘开发文档: [https://zjutjh.github.io/wejh-docs/](https://zjutjh.github.io/wejh-docs/
+- 微精弘开发文档: [https://zjutjh.github.io/wejh-docs/](https://zjutjh.github.io/wejh-docs/)
 
 - Taro官方文档: [https://docs.taro.zone/docs/](https://docs.taro.zone/docs/)
 
