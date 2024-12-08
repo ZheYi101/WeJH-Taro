@@ -41,7 +41,7 @@
 
 - 小程序后台: [https://github.com/zjutjh/JingHong-Admin-Vue](https://github.com/zjutjh/JingHong-Admin-Vue)
 
-- 微精弘1.0: [https://github.com/zjutjh/wejh-weapp](https://github.com/zjutjh/wejh-weapp
+- 微精弘1.0: [https://github.com/zjutjh/wejh-weapp](https://github.com/zjutjh/wejh-weapp)
 
 ## 开发者
 
